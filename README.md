@@ -31,9 +31,9 @@ KeyVia 为开发者和 AI 工具用户提供统一的 API 接入入口，支持 
 
 ## 连接你熟悉的工具
 
-**终端编程** &nbsp; Claude Code · Codex · Gemini CLI  
-**编辑器与插件** &nbsp; Cursor · Cline  
-**桌面客户端** &nbsp; Cherry Studio · Chatbox  
+**终端编程** &nbsp; Claude Code · Codex · Gemini CLI<br>
+**编辑器与插件** &nbsp; Cursor · Cline<br>
+**桌面客户端** &nbsp; Cherry Studio · Chatbox<br>
 **应用开发** &nbsp; OpenAI SDK · Anthropic SDK · Google GenAI SDK
 
 工具所需协议与模型支持取决于所选分组，请按官网对应接入指引配置。
