@@ -3,7 +3,6 @@
     <img src="assets/keyvia-logo.svg" alt="KeyVia Logo" width="112" height="112">
   </a>
   <h1>KeyVia - AI满血中转站</h1>
-  <p><strong>KeyVia - Full-Power AI API Gateway</strong></p>
   <p>一个入口，连接你的 AI 模型与开发工具。</p>
   <p>GPT · Claude · Gemini</p>
   <p>
@@ -11,7 +10,7 @@
     &nbsp; · &nbsp;
     <a href="#quick-start">快速开始</a>
     &nbsp; · &nbsp;
-    <a href="#english">English</a>
+    <a href="README.en.md">English</a>
   </p>
 </div>
 
@@ -54,40 +53,11 @@ KeyVia 为开发者和 AI 工具用户提供统一的 API 接入入口，支持 
 
 接入文档与服务信息请访问 **[KeyVia 官网](https://keyvia.cc)**。账号、订单或密钥相关问题，请登录控制台，通过「帮助与支持」联系客服。
 
----
-
-<a id="english"></a>
-
-## KeyVia - Full-Power AI API Gateway
-
-**One entry point for your AI models and developer tools.**
-
-KeyVia provides a unified API gateway for developers and AI tool users, with support for **OpenAI, Anthropic, and Gemini protocols**.
-
-### Why KeyVia?
-
-| Feature | What you can do |
-| :--- | :--- |
-| **Multiple models** | Access GPT, Claude, Gemini, and other models through one platform. |
-| **Familiar APIs** | Connect using compatible OpenAI, Anthropic Messages, and Gemini interfaces. |
-| **Your everyday tools** | Follow setup guides for Claude Code, Codex, Gemini CLI, Cursor, Cline, Cherry Studio, and more. |
-| **Straightforward setup** | Create an API key and use the configuration provided for your client or SDK. |
-| **Usage visibility** | Manage API keys and review usage and spending in the console. |
-
-### Get started
-
-1. Visit **[keyvia.cc](https://keyvia.cc)** and create an account or sign in.
-2. Select a suitable group and create an API key in the console.
-3. Follow the setup guide for your tool or SDK and send your first request.
-
-Model availability, supported protocols, pricing, and quotas depend on your selected group and the current information on the website.
-
-For documentation and service details, visit **[KeyVia](https://keyvia.cc)**. For account or billing support, sign in and open **Help & Support** in the console.
 
 ---
 
 <div align="center">
-  <p><strong>让 AI 接入更简单 · Simplify your AI setup</strong></p>
+  <p><strong>让 AI 接入更简单</strong></p>
   <p><a href="https://keyvia.cc"><strong>开始使用 KeyVia →</strong></a></p>
-  <sub>本仓库用于服务介绍与官网导航 · Service overview and website links</sub>
+  <sub>本仓库用于服务介绍与官网导航</sub>
 </div>
